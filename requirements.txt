@@ -1,6 +1,7 @@
 streamlit
 langchain
-langchain-community
 langchain-groq
-chromadb
+langchain-community
 sentence-transformers
+faiss-cpu
+python-dotenv
