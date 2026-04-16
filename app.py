@@ -4,14 +4,10 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
+from dotenv import load_dotenv
+load_dotenv()
 
-if "GROQ_API_KEY" in st.secrets:
-    
-    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
-else:
-    
-    from dotenv import load_dotenv
-    load_dotenv()
+
 
 st.set_page_config(page_title="Mbah AI Primbon", page_icon="🔮", layout="centered")
 
