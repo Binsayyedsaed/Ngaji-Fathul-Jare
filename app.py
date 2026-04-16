@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
@@ -52,7 +52,7 @@ def load_bot():
     with open('primbon.txt', 'r', encoding='utf-8') as f: text = f.read()
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
     docs = splitter.create_documents([text])
-    db = Chroma.from_documents(docs, HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2"))
+    db = FAISS.from_documents(docs, HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2"))
 
     # MODEL BARU YANG AKTIF. Pilih salah satu:
     llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.3) 
