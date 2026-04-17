@@ -1,0 +1,5 @@
+=== ARAH RUMAH ===
+neptu 7 8 9 arah rumah cocok timur atau selatan
+neptu 10 11 12 arah rumah cocok utara atau barat
+neptu 13 14 15 arah rumah cocok timur atau utara
+neptu 16 17 18 arah rumah cocok selatan atau barat
