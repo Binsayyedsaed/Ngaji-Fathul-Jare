@@ -1,0 +1,65 @@
+=== DATASET WATAK 35 WETON PRIMBON JAWA ===
+
+TATA CARA HITUNG NEPTU:
+Hari: Minggu=5, Senin=4, Selasa=3, Rabu=7, Kamis=8, Jumat=6, Sabtu=9
+Pasaran: Legi=5, Pahing=9, Pon=7, Wage=4, Kliwon=8
+Rumus: Neptu Hari + Neptu Pasaran
+
+--- NEPTU 7 ---
+Selasa Wage: Watak positif: Lincah, cekatan, nggak bisa diam, kreatif. Negatif: Grusa-grusu, gampang bosen, kurang telaten, gampang kena hasut. Saran: Ambil kerjaan lapangan, jangan kantoran.
+
+--- NEPTU 8 ---
+Senin Wage: Watak positif: Penurut, welas asih, nggak tegaan, suka menolong. Negatif: Gampang dibohongi, gampang kasihan, rejeki pas-pasan. Saran: Jangan gampang utangin orang.
+Selasa Legi: Watak positif: Setia, pekerja keras, tahan banting, jujur. Negatif: Kaku, kurang pinter ngomong, minderan. Saran: Kerja pakai otot, bukan mulut.
+
+--- NEPTU 9 ---
+Minggu Wage: Watak positif: Periang, suka kumpul, ramah, humoris. Negatif: Boros, gampang percaya orang, mulut ember. Saran: Jangan pegang duit banyak.
+Senin Legi: Watak positif: Ramah, disenangi, pinter bergaul, suka nolong. Negatif: Gampang curhat, rahasia bocor, gampang dimanfaatkan. Saran: Pilih teman cerita.
+
+--- NEPTU 10 ---
+Minggu Legi: Watak positif: Jujur, setia, lugu, tulus, nggak neko-neko. Negatif: Gampang ditipu, kurang waspada, kaku. Saran: Jangan gampang tanda tangan.
+Selasa Pon: Watak positif: Pemberani, setia kawan, jiwa korsa tinggi, spontan. Negatif: Grusa-grusu, emosi duluan, kurang mikir panjang. Saran: Tarik napas dulu sebelum bertindak.
+Jumat Wage: Watak positif: Jujur, polos, loman, nggak tegaan, berkah. Negatif: Terlalu polos, gampang dikerjain, rejeki pas. Saran: Banyak tirakat biar selamat.
+
+--- NEPTU 11 ---
+Senin Pon: Watak positif: Pendiam, hemat, telaten, rapi, bersih, detail. Negatif: Kaku, pelit, susah bergaul, overthinking. Saran: Belajar fleksibel.
+Selasa Kliwon: Watak positif: Lincah, banyak akal, pinter ngomong, cepet nangkap. Negatif: Gampang emosi, nggak betahan, mulut pedes. Saran: Jaga omongan biar nggak musuhan.
+Rabu Wage: Watak positif: Sabar, telaten, tekun, neriman. Negatif: Pelupa, lamban, gampang diem aja. Saran: Catat semua biar nggak lupa.
+Jumat Legi: Watak positif: Halus budi, pinter, perasaan tajam, kreatif. Negatif: Sering was-was, baperan, overthinking, minder. Saran: Perbanyak dzikir biar tenang.
+
+--- NEPTU 12 ---
+Minggu Pon: Watak positif: Tenang, pendiam, pinter nyimpen rahasia, wibawa. Negatif: Pendendam, dingin, susah ditebak. Saran: Maafin orang biar enteng hidupmu.
+Senin Kliwon: Watak positif: Cerdas, luas wawasan, suka mikir, pinter. Negatif: Suka menyendiri, sombong, meremehkan orang. Saran: Turun ke bawah, gaul sama wong cilik.
+Selasa Pahing: Watak positif: Keras, tegas, nggak mau kalah, jiwa kompetisi. Negatif: Gampang ribut, tukang ngajak gelut, keras kepala. Saran: Salurkan ke olahraga.
+Rabu Legi: Watak positif: Sabar, neriman, loman, disenangi teman, polos. Negatif: Gampang dimanfaatin, kurang waspada, gampang ditipu. Saran: Jangan polos-polos banget.
+Kamis Wage: Watak positif: Anteng, antiman, tenang, nggak neko-neko, setia. Negatif: Lamban, lemot, kurang inisiatif. Saran: Kejar rejeki, jangan nunggu.
+Jumat Pon: Watak positif: Perasa, setia, perhatian, lembut, penyayang. Negatif: Gampang tersinggung, baperan, cengeng. Saran: Kuatkan mental.
+
+--- NEPTU 13 ---
+Minggu Kliwon: Watak positif: Cerdas, berbudi halus, berwibawa, dermawan, suka menolong. Negatif: Curigaan, pendendam, misterius, susah ditebak. Saran: Jangan simpan dendam.
+Senin Pahing: Watak positif: Sabar, nurutan, penyayang, kalem. Negatif: Sekali marah ngamuk, pendendam diam. Saran: Lampiaskan marah dengan olahraga.
+Kamis Legi: Watak positif: Kalem, pinter, disukai atasan, manutan. Negatif: Penjilat, cari muka, kurang jujur. Saran: Jujur aja rejekimu udah ada.
+Sabtu Wage: Watak positif: Pekerja keras, ulet, nggak kenal lelah, tahan banting. Negatif: Kaku, kolot, nggak mau denger orang, egois. Saran: Dengerin masukan anak muda.
+
+--- NEPTU 14 ---
+Minggu Pahing: Watak positif: Keras hati, berani, tegas, tanggung jawab, jujur. Negatif: Ucapannya pedes, nyakitin, kolot. Saran: Rem omonganmu Mbah.
+Rabu Pon: Watak positif: Pinter, banyak akal, lincah, pinter dagang. Negatif: Licik kalau kepepet, tukang ngakalin, kurang jujur. Saran: Jujur biar dagangan laris.
+Jumat Kliwon: Watak positif: Welas asih, suka menolong, perasa, lembut, tulus. Negatif: Gampang kasihan, gampang kebawa perasaan, baper. Saran: Tolong seperlunya aja.
+Sabtu Legi: Watak positif: Bijaksana, luas wawasan, wibawa, disegani, tenang. Negatif: Kalau marah diam tapi bahaya, pendendam. Saran: Ngomong kalau nggak suka.
+
+--- NEPTU 15 ---
+Rabu Kliwon: Watak positif: Waspada, curigaan, hati-hati, pinter jaga diri. Negatif: Paranoid, susah percaya orang, kaku. Saran: Nggak semua orang jahat Mbah.
+Kamis Pon: Watak positif: Pinter bicara, wibawa, banyak pengikut, kharismatik. Negatif: Sombong, suka merintah, gila hormat. Saran: Rendah hati biar awet.
+Jumat Pahing: Watak positif: Dermawan, loman, suka bagi-bagi, jiwa sosial tinggi. Negatif: Boros, tekor, nggak mikir besok. Saran: Nabung Mbah, jangan dibagi semua.
+
+--- NEPTU 16 ---
+Rabu Pahing: Watak positif: Wibawa gede, tenang, ucapannya jadi pegangan, disegani. Negatif: Angkuh, dingin, jaim. Saran: Senyum dikit Mbah biar nggak ditakuti.
+Kamis Kliwon: Watak positif: Keras kepala tapi tanggung jawab, tegas, amanah. Negatif: Kolot, nggak mau denger, sak karepe dewe. Saran: Musyawarah Mbah.
+Sabtu Pon: Watak positif: Tenang, kuat, kokoh, nggak gampang goyah, mental baja. Negatif: Kaku, susah diajak guyon, dingin. Saran: Sekali-kali guyon Mbah.
+
+--- NEPTU 17 ---
+Kamis Pahing: Watak positif: Keras, ambisius, wibawa besar, jiwa pemimpin, kharismatik. Negatif: Nggak mau kalah, gila kuasa, banyak musuh. Saran: Musuhmu dikonco Mbah.
+Sabtu Kliwon: Watak positif: Misterius, pinter, wibawa, disegani, spiritual tinggi. Negatif: Ditakuti orang, kaku, pendendam. Saran: Ramah dikit biar orang nggak wedi.
+
+--- NEPTU 18 ---
+Sabtu Pahing: Watak positif: Wibawa tingkat dewa, pendiam, kharismatik, sekali ngomong diturut. Negatif: Angkuh, dingin, susah didekati, jaim. Saran: Blusukan Mbah ben dicintai rakyat.
